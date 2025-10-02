@@ -13,7 +13,6 @@ WORLDCOVER_URL = (
     "v100/2020/ESA_WorldCover_10m_2020_v100_Map_AWS.vrt"
 )
 
-OPENTOPO_API_KEY = "b99aaa40b90b255e5d138d8174f9f029"
 
 
 @app.route("/stack")
